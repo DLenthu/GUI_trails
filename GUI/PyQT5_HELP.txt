@@ -1,0 +1,5 @@
+/usr/lib/x86_64-linux-gnu/qt5/bin/designer 
+
+
+pyuic5 -x < name of ui file>.ui -o <  name of python file>.py 
+
